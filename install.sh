@@ -1,7 +1,7 @@
 #!/bin/bash
 cd /root/.tecaxcore
 sudo apt-get install -y git python-virtualenv
-sudo git clone https://github.com/tecax/sentinel.git
+sudo git clone https://github.com/dashpay/sentinel.git
 cd sentinel
 export LC_ALL=C
 sudo apt-get install -y virtualenv
